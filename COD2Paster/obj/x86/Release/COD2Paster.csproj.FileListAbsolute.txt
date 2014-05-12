@@ -1,0 +1,9 @@
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\bin\Release\COD2Paster.exe
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\bin\Release\COD2Paster.pdb
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\obj\x86\Release\COD2Paster.Form1.resources
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\obj\x86\Release\COD2Paster.Properties.Resources.resources
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\obj\x86\Release\COD2Paster.exe
+C:\Users\egbert\documents\visual studio 2010\Projects\COD2Paster\COD2Paster\obj\x86\Release\COD2Paster.pdb
